@@ -1,1 +1,1 @@
-# Boutique-en-Chocolat-wordpress
+# Boutique-de-Chocolat-wordpress
