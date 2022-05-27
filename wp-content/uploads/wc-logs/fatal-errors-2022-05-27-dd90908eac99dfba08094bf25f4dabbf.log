@@ -1,0 +1,4 @@
+2022-05-27T07:33:43+00:00 CRITICAL Out of memory (allocated 46137344) (tried to allocate 32768 bytes) in C:\xampp\htdocs\test wordprss\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler.php on line 1
+
+2022-05-27T07:33:59+00:00 CRITICAL Out of memory (allocated 62914560) (tried to allocate 32768 bytes) in C:\xampp\htdocs\test wordprss\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\attribute-filter-frontend.asset.php on line 1
+
